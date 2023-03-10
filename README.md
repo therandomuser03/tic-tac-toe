@@ -1,8 +1,6 @@
 # Tic Tac Toe
 
-![](https://user-images.githubusercontent.com/94695669/224414679-465edc0a-910c-4284-b98e-74e134207e2a.png)
-<br>
-![)](https://user-images.githubusercontent.com/94695669/224414742-02814d26-e0ac-42ba-bbef-9d8b919a915b.png)
+![](https://user-images.githubusercontent.com/94695669/224415162-a70bda5c-f2bf-48d2-be5d-5b5cbc06f767.png) ![](https://user-images.githubusercontent.com/94695669/224415284-7f05be3d-704f-46da-8fce-10136c3660b8.png)
 
 
 A Tic Tac Toe game made by using HTML, CSS and JavaScript
